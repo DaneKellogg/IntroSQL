@@ -7,4 +7,4 @@
 -- | 2017 | Chicago White Sox |
 -- +------+-------------------+
 
-
+SELECT name, year FROM teams where park = "U.S. Cellular Field"
